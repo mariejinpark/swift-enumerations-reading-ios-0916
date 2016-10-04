@@ -50,4 +50,4 @@ playerDidMove(direction1)
 playerDidMove(direction2)
 playerDidMove(direction3)
 
-playerDidMove(.left)
+playerDidMove(.left) //
